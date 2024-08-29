@@ -22,3 +22,31 @@ MBP es útil en la ingeniería de sistemas complejos, como en la automoción, la
 Lenguajes como UML/OCL son importantes en MBP. 
 
 #Parte practica
+BIBLIOTECA: Sistema para el control de préstamos de libros de una biblioteca
+cómo modelar un sistema de préstamos de libros en una biblioteca utilizando el paradigma de Programación Basada en Modelos con Python.
+
+#Desafios
+Creacion y mantenimiento de los detallados
+Curva de aprendizaje alta si no hay conocimiento previo
+Dificultad de ingresar en un sistema no hecho para PBM
+
+#Consideraciones
+Rendimiento: Validacion y generacion de codigo rapida,   abstraccion adicion sobrecarga
+Escalabilidad: Adaptable, dificultad a sistema mas detallado/complejo
+Mantenimiento: documentacion constante, dificultad si hay problemas de actualizacion
+
+#Comparaciones
+POO:
+P. Imperativa:
+
+#¿Cuando es preferible?
+Sistemas complejos y altamente abstraidos
+Automatizacion del codigo
+Mantenibilidad
+
+#Conclusiones
+Potencial de revolucionar; eficiente adaptable.
+automatización, la validación y la escalabilidad son clave
+
+#*Codigo*
+https://colab.research.google.com/drive/11Sh4PU3UCJVA-7TmqZdKMqZ4cITbHhh4?usp=sharing#scrollTo=a18HWd7Ra-6y

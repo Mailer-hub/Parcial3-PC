@@ -25,19 +25,22 @@ Lenguajes como UML/OCL son importantes en MBP.
 BIBLIOTECA: Sistema para el control de préstamos de libros de una biblioteca
 cómo modelar un sistema de préstamos de libros en una biblioteca utilizando el paradigma de Programación Basada en Modelos con Python.
 
+#Consideraciones
+Rendimiento: Altamente optimizaso, validacion y generacion de codigo rapida,  
+Escalabilidad: facilita la adición de nuevas funcionalidades o la modificación de las existentes sin afectar al resto del sistema.
+, 
+Mantenimiento: código claro y organizado, documentacion constante, dificultad si hay problemas de actualizacion
+
 #Desafios
-Creacion y mantenimiento de los detallados
+Sobrecarga inicial para la validación de datos y la creación de modelos
+Creacion y mantenimiento de los sistemas mas detallados 
 Curva de aprendizaje alta si no hay conocimiento previo
 Dificultad de ingresar en un sistema no hecho para PBM
-
-#Consideraciones
-Rendimiento: Validacion y generacion de codigo rapida,   abstraccion adicion sobrecarga
-Escalabilidad: Adaptable, dificultad a sistema mas detallado/complejo
-Mantenimiento: documentacion constante, dificultad si hay problemas de actualizacion
+dificultad a sistema mas detallado/complejo
 
 #Comparaciones
-POO:
-P. Imperativa:
+POO:clases personalizadas para Libro, Usuario, y Prestamo. no automatizacion y generacion de codigo como mbp
+P. Imperativa:estructuras de datos más básicas. Falta de abstraccion mas desorganizado 
 
 #¿Cuando es preferible?
 Sistemas complejos y altamente abstraidos
@@ -47,6 +50,18 @@ Mantenibilidad
 #Conclusiones
 Potencial de revolucionar; eficiente adaptable.
 automatización, la validación y la escalabilidad son clave
+Aumento de la Abstracción y Reducción de la Complejidad
+Automatización y Eficiencia
+Interoperabilidad y Estandarización
+Mejora en la Mantenibilidad y Evolución del Software
+Integración con Tecnologías Emergentes
+Facilitación del Desarrollo Multidisciplinario
+
 
 #*Codigo*
 https://colab.research.google.com/drive/11Sh4PU3UCJVA-7TmqZdKMqZ4cITbHhh4?usp=sharing#scrollTo=a18HWd7Ra-6y
+
+#*Diapositiva*
+[Parcial 3 Grupo 17.pptx](https://github.com/user-attachments/files/16808943/Parcial.3.Grupo.17.pptx)
+
+

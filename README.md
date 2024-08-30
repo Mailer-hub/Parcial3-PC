@@ -1,5 +1,5 @@
 # Parcial3-PC
-Parcial #3 de programación de computadores grupo 17
+Parcial #3 de programación de computadores grupo 17: *Luna Daniela Rodriguez Higuera*, *Mahyller Mauricio Robayo Perez*
 # Programación basada en modelos (MDP): Un paradigma centrado en la creacion y manipulacion de modelos para el desarrollo de software; permitiendo una comprension clara de los sistemas, ademas de facilitar la generacion automatica del codigo
 #Importancia
 Facil generacion de codigo, preciso, adaptable y comprensible
